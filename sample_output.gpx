@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="Graphhopper version 6.0" version="1.1" xmlns:gh="https://graphhopper.com/public/schema/gpx/1.1">
+<metadata><copyright author="OpenStreetMap contributors"/><link href="http://graphhopper.com"><text>GraphHopper GPX</text></link><time>2022-04-05T02:13:10Z</time></metadata>
+<trk><name>Test route</name><trkseg>
+<trkpt lat="38.886071" lon="-77.084277"><time>2022-04-05T02:13:10Z</time></trkpt>
+<trkpt lat="38.885787" lon="-77.084525"></trkpt>
+<trkpt lat="38.885419" lon="-77.084773"><time>2022-04-05T02:13:14Z</time></trkpt>
+<trkpt lat="38.885005" lon="-77.084929"></trkpt>
+<trkpt lat="38.884618" lon="-77.084998"></trkpt>
+<trkpt lat="38.884274" lon="-77.085003"></trkpt>
+<trkpt lat="38.883919" lon="-77.08489"></trkpt>
+<trkpt lat="38.881121" lon="-77.084298"></trkpt>
+<trkpt lat="38.877683" lon="-77.083587"></trkpt>
+<trkpt lat="38.876715" lon="-77.083396"></trkpt>
+<trkpt lat="38.87645" lon="-77.083379"></trkpt>
+<trkpt lat="38.876263" lon="-77.083393"></trkpt>
+<trkpt lat="38.876076" lon="-77.083433"></trkpt>
+<trkpt lat="38.875784" lon="-77.08355"></trkpt>
+<trkpt lat="38.875616" lon="-77.08365"></trkpt>
+<trkpt lat="38.875409" lon="-77.083812"></trkpt>
+<trkpt lat="38.875202" lon="-77.084018"></trkpt>
+<trkpt lat="38.875043" lon="-77.08422"></trkpt>
+<trkpt lat="38.874851" lon="-77.084553"></trkpt>
+<trkpt lat="38.874722" lon="-77.084894"><time>2022-04-05T02:14:23Z</time></trkpt>
+</trkseg>
+</trk>
